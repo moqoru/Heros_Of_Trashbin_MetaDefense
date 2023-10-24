@@ -2,6 +2,7 @@
 # [A807] 히어로즈 오브 쓰레기통 (히오쓰) 포팅매뉴얼
 
 ### 프로젝트 : Unity 3D
+소개 영상 : https://www.youtube.com/watch?v=hHcbccpotX4
 
 ## 배포 및 튜토리얼 페이지 : 
 https://flame-oval-517.notion.site/Heros-Of-Trashbin-MetaDefense-10decda94fef4c2299874d9132cb6176
